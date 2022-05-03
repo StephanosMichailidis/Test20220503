@@ -1,0 +1,10 @@
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\bin\Debug\Test03052022Michailidis.exe.config
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\bin\Debug\Test03052022Michailidis.exe
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\bin\Debug\Test03052022Michailidis.pdb
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\obj\Debug\Test03052022Michailidis.csprojAssemblyReference.cache
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\obj\Debug\Test03052022Michailidis.Faktura.resources
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\obj\Debug\Test03052022Michailidis.Properties.Resources.resources
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\obj\Debug\Test03052022Michailidis.csproj.GenerateResource.cache
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\obj\Debug\Test03052022Michailidis.csproj.CoreCompileInputs.cache
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\obj\Debug\Test03052022Michailidis.exe
+C:\Users\michailidi.stephanos\source\repos\Test03052022Michailidis\obj\Debug\Test03052022Michailidis.pdb
